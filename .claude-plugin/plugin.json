@@ -1,0 +1,13 @@
+{
+  "name": "declutter",
+  "version": "1.0.0",
+  "description": "Finds dead code, unused files and packages, stale docs and comments, and needless complexity in a scope you name. Proves each one is dead, asks before removing anything, backs up what it removes, and checks the project still works.",
+  "author": {
+    "name": "Karan Kumar",
+    "url": "https://github.com/karankumar24"
+  },
+  "homepage": "https://github.com/karankumar24/declutter",
+  "repository": "https://github.com/karankumar24/declutter",
+  "license": "MIT",
+  "keywords": ["dead-code", "cleanup", "refactoring", "unused-dependencies", "claude-code"]
+}
