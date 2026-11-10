@@ -1,7 +1,7 @@
 {
   "name": "declutter",
-  "version": "1.0.1",
-  "description": "Finds dead code, unused files and packages, stale docs and comments, and needless complexity in a scope you name. Proves each one is dead, asks before removing anything, backs up what it removes, and checks the project still works.",
+  "version": "1.0.2",
+  "description": "Finds dead code, unused files and packages, stale docs and comments, and needless complexity in a scope you name. Shows the evidence for each one, asks before removing anything, backs up what it removes, and checks the project still works.",
   "author": {
     "name": "Karan Kumar",
     "url": "https://github.com/karankumar24"

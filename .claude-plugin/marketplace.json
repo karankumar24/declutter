@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "declutter",
-      "description": "Finds dead code, unused files and packages, stale docs and comments, and needless complexity in a scope you name. Proves each one is dead, asks before removing anything, backs up what it removes, and checks the project still works.",
+      "description": "Finds dead code, unused files and packages, stale docs and comments, and needless complexity in a scope you name. Shows the evidence for each one, asks before removing anything, backs up what it removes, and checks the project still works.",
       "source": "./",
       "category": "development",
       "homepage": "https://github.com/karankumar24/declutter",
